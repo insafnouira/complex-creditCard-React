@@ -1,0 +1,34 @@
+.Title{
+    color: white;
+    padding-top: 12px;
+    padding-left: 27%;
+    font-size: 17px;
+  }
+  .rip{
+    color: rgb(216, 216, 87);
+    font-size: 20px;
+    margin-left: -45%;
+  
+  }
+  .puce{
+    width: 13%;
+    height: 56px;
+    margin-left: -74%;
+  }
+  .flex{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+  }
+  .flex h3{
+    margin-top: 62px;
+  }
+  .flex h2{
+    margin-left: 17%;
+  }
+  .master{
+    width: 15%;
+    height: 100px;
+  }
+
+  
